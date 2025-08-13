@@ -1,7 +1,7 @@
 # EPOCH_4th TASK
 > 데이터사이언스 연합 동아리 에폭(EPOCH) 4기의 TASK 제출 저장소입니다. [2025.08 ~ 2026.01]
 
-![Image](https://github.com/user-attachments/assets/2faef4a8-5064-45c6-9b6b-05bfb8fc4dd7)
+<img width="1600" height="900" alt="EPOCH" src="https://github.com/user-attachments/assets/2df0b2ea-d4ce-4045-a0a1-8df83f57769e" />
 
 ## ℹ️About Us
 - 에폭(EPOCH)은 2024년 2월 개설된 데이터 사이언스 연합 동아리입니다.
