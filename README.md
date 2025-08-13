@@ -24,7 +24,9 @@
 아래 형식에 맞게 올바른 제출 경로로 제출합니다.
 
 - Research Team 제출 경로: `EPOCH/4th_TASK/ResearchTeam/weekN/00기_이름.md`
-- Develop Team 제출 경로: `EPOCH/4th_TASK/DevelopTeam/weekN/00기_이름.ipynb`
+- Develop Team 제출 경로
+  - 교재 실습 TASK: `EPOCH/4th_TASK/DevelopTeam/weekN/Practice/00기_이름.ipynb`
+  - Pilot Project: `EPOCH/4th_TASK/DevelopTeam/weekN/Pilot/00기_이름.ipynb`
 
 ## ✌🏻제출 기한: '매주 정기 세션 전날 자정'
 - ⏰지각: 정기 세션 전날 자정으로부터 1초 이상, 29분 59초 이하
