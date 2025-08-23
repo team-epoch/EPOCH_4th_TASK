@@ -11,10 +11,8 @@
 > Prashant Pilla et al. (2025, January 29). Forecasting S&P 500 using LSTM models. arXiv preprint arXiv:2501.17366.
 > 
 
-<aside>
-⚠️
-
-**해당 파트를 자유롭게 학습하고 준비해와주세요.**
+---
+**⚠️해당 파트를 자유롭게 학습하고 준비해와주세요.**
 
 > 첫 정기 세션까지의 시간이 촉박한 관계로, **1주차에 한해서 메인 논문 리딩 TASK**만 부여
 > 
