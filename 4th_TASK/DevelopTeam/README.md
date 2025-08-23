@@ -30,13 +30,11 @@
 
 | Week | Task | Due Date |
 | --- | --- | --- |
-| `week 1` | - 데이터셋 선정
-- EDA | 9월 2일 (화) 12:00 |
-| `week 2` | - 데이터 전처리 | 9월 9일 (화) 12:00 |
-| `week 3` | - Feature Engineering
-- Modeling | 9월 16일 (화) 12:00 |
-| `week 4` | - Model Evaluation
-- Hyperparameter Tuning | 9월 23일 (화) 12:00 |
+| `week 1` | 데이터셋 선정, EDA | 9월 2일 (화) 12:00 |
+| `week 2` | 데이터 전처리 | 9월 9일 (화) 12:00 |
+| `week 3` | Feature Engineering, Modeling | 9월 16일 (화) 12:00 |
+| `week 4` | Model Evaluation, Hyperparameter Tuning | 9월 23일 (화) 12:00 |
+
 
 ---
 
