@@ -28,8 +28,8 @@
   - 교재 실습 TASK: `EPOCH/4th_TASK/DevelopTeam/weekN/Practice/00기_이름.ipynb`
   - Pilot Project: `EPOCH/4th_TASK/DevelopTeam/weekN/Pilot/00기_이름.ipynb`
 
-## ✌🏻제출 기한: '매주 정기 세션 전날 자정'
-- ⏰지각: 정기 세션 전날 자정으로부터 1초 이상, 29분 59초 이하
+## ✌🏻제출 기한: '매주 정기 세션 당일 정오'
+- ⏰지각: 정기 세션 당일 정오로부터 1초 이상, 29분 59초 이하
 - ❌미제출: 29분 59초를 초과한 경우
 
 ## ✔️멤버별 제출 현황
