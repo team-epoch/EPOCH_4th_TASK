@@ -3,12 +3,12 @@
 
 **1️⃣ Time Series Analysis 분야; 메인 논문**(APA 인용)
 
-> Greff, K., Srivastava, R. K., Koutník, J., Steunebrink, B. R., & Schmidhuber, J. (2015). LSTM: A search space odyssey. *IEEE Transactions on Neural Networks and Learning Systems, 28*(10), 2222–2232.
+> Klaus Greff et al. (2015). LSTM: A search space odyssey. IEEE Transactions on Neural Networks and Learning Systems, 28(10), 2222–2232.
 > 
 
 **1️⃣ Time Series Analysis 분야; 서브 논문**(APA 인용)
 
-> Pilla, P., & Mekonen, R. (2025, January 29). *Forecasting S&P 500 using LSTM models*. arXiv preprint arXiv:2501.17366.
+> Prashant Pilla et al. (2025, January 29). Forecasting S&P 500 using LSTM models. arXiv preprint arXiv:2501.17366.
 > 
 
 <aside>
